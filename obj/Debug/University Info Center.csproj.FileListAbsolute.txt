@@ -1,0 +1,76 @@
+D:\DHA SUFFA UNIVERSITY\Semester 4\Labs\Database System Lab\Project\University Info Center\bin\Debug\University Info Center.exe.config
+D:\DHA SUFFA UNIVERSITY\Semester 4\Labs\Database System Lab\Project\University Info Center\bin\Debug\University Info Center.exe
+D:\DHA SUFFA UNIVERSITY\Semester 4\Labs\Database System Lab\Project\University Info Center\bin\Debug\University Info Center.pdb
+D:\DHA SUFFA UNIVERSITY\Semester 4\Labs\Database System Lab\Project\University Info Center\bin\Debug\MySql.Data.dll
+D:\DHA SUFFA UNIVERSITY\Semester 4\Labs\Database System Lab\Project\University Info Center\bin\Debug\Google.Protobuf.dll
+D:\DHA SUFFA UNIVERSITY\Semester 4\Labs\Database System Lab\Project\University Info Center\bin\Debug\Zstandard.Net.dll
+D:\DHA SUFFA UNIVERSITY\Semester 4\Labs\Database System Lab\Project\University Info Center\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\DHA SUFFA UNIVERSITY\Semester 4\Labs\Database System Lab\Project\University Info Center\bin\Debug\BouncyCastle.Crypto.dll
+D:\DHA SUFFA UNIVERSITY\Semester 4\Labs\Database System Lab\Project\University Info Center\bin\Debug\Ubiety.Dns.Core.dll
+D:\DHA SUFFA UNIVERSITY\Semester 4\Labs\Database System Lab\Project\University Info Center\bin\Debug\Renci.SshNet.dll
+D:\DHA SUFFA UNIVERSITY\Semester 4\Labs\Database System Lab\Project\University Info Center\bin\Debug\System.Memory.dll
+D:\DHA SUFFA UNIVERSITY\Semester 4\Labs\Database System Lab\Project\University Info Center\bin\Debug\System.Buffers.dll
+D:\DHA SUFFA UNIVERSITY\Semester 4\Labs\Database System Lab\Project\University Info Center\bin\Debug\K4os.Compression.LZ4.dll
+D:\DHA SUFFA UNIVERSITY\Semester 4\Labs\Database System Lab\Project\University Info Center\bin\Debug\K4os.Hash.xxHash.dll
+D:\DHA SUFFA UNIVERSITY\Semester 4\Labs\Database System Lab\Project\University Info Center\bin\Debug\System.Numerics.Vectors.dll
+D:\DHA SUFFA UNIVERSITY\Semester 4\Labs\Database System Lab\Project\University Info Center\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\DHA SUFFA UNIVERSITY\Semester 4\Labs\Database System Lab\Project\University Info Center\bin\Debug\MySql.Data.xml
+D:\DHA SUFFA UNIVERSITY\Semester 4\Labs\Database System Lab\Project\University Info Center\obj\Debug\University Info Center.csprojAssemblyReference.cache
+D:\DHA SUFFA UNIVERSITY\Semester 4\Labs\Database System Lab\Project\University Info Center\obj\Debug\University Info Center.exe.config
+D:\DHA SUFFA UNIVERSITY\Semester 4\Labs\Database System Lab\Project\University Info Center\obj\Debug\University_Info_Center.AdminAuthorization.resources
+D:\DHA SUFFA UNIVERSITY\Semester 4\Labs\Database System Lab\Project\University Info Center\obj\Debug\University_Info_Center.UserRegistrationForm.resources
+D:\DHA SUFFA UNIVERSITY\Semester 4\Labs\Database System Lab\Project\University Info Center\obj\Debug\University_Info_Center.MainMenuForm.resources
+D:\DHA SUFFA UNIVERSITY\Semester 4\Labs\Database System Lab\Project\University Info Center\obj\Debug\University_Info_Center.Properties.Resources.resources
+D:\DHA SUFFA UNIVERSITY\Semester 4\Labs\Database System Lab\Project\University Info Center\obj\Debug\University_Info_Center.UserForm.resources
+D:\DHA SUFFA UNIVERSITY\Semester 4\Labs\Database System Lab\Project\University Info Center\obj\Debug\University Info Center.csproj.GenerateResource.cache
+D:\DHA SUFFA UNIVERSITY\Semester 4\Labs\Database System Lab\Project\University Info Center\obj\Debug\University Info Center.csproj.CopyComplete
+D:\DHA SUFFA UNIVERSITY\Semester 4\Labs\Database System Lab\Project\University Info Center\obj\Debug\University Info Center.exe
+D:\DHA SUFFA UNIVERSITY\Semester 4\Labs\Database System Lab\Project\University Info Center\obj\Debug\University Info Center.pdb
+D:\DHA SUFFA UNIVERSITY\Semester 4\Labs\Database System Lab\Project\University Info Center\obj\Debug\University_Info_Center.Admin_Form.DemoTesting.DemoTest.resources
+D:\DHA SUFFA UNIVERSITY\Semester 4\Labs\Database System Lab\Project\University Info Center\obj\Debug\University_Info_Center.Admin_Form.AdminForm.resources
+D:\DHA SUFFA UNIVERSITY\Semester 4\Labs\Database System Lab\Project\University Info Center\obj\Debug\University_Info_Center.Admin_Form.DeleteUniField.resources
+D:\DHA SUFFA UNIVERSITY\Semester 4\Labs\Database System Lab\Project\University Info Center\obj\Debug\University_Info_Center.Admin_Form.Field.resources
+D:\DHA SUFFA UNIVERSITY\Semester 4\Labs\Database System Lab\Project\University Info Center\obj\Debug\University_Info_Center.Admin_Form.InsertUniField.resources
+D:\DHA SUFFA UNIVERSITY\Semester 4\Labs\Database System Lab\Project\University Info Center\obj\Debug\University_Info_Center.Admin_Form.UniversityInfo.resources
+D:\DHA SUFFA UNIVERSITY\Semester 4\Labs\Database System Lab\Project\University Info Center\obj\Debug\University_Info_Center.Admin_Form.UpdateUniField.resources
+D:\DHA SUFFA UNIVERSITY\Semester 4\Labs\Database System Lab\Project\University Info Center\obj\Debug\University_Info_Center.Admin_Form.UserInfo.resources
+D:\DHA SUFFA UNIVERSITY\Semester 4\Labs\Database System Lab\Project\University Info Center\obj\Debug\University_Info_Center.Admin_Form.Dashboard.resources
+D:\DHA SUFFA UNIVERSITY\Semester 4\Labs\Database System Lab\Project\University Info Center\obj\Debug\University_Info_Center.Admin_Form.Semester.resources
+D:\DHA SUFFA UNIVERSITY\Semester 4\Labs\Database System Lab\Project\CopyProject\University Info Center\bin\Debug\University Info Center.exe.config
+D:\DHA SUFFA UNIVERSITY\Semester 4\Labs\Database System Lab\Project\CopyProject\University Info Center\bin\Debug\University Info Center.exe
+D:\DHA SUFFA UNIVERSITY\Semester 4\Labs\Database System Lab\Project\CopyProject\University Info Center\bin\Debug\University Info Center.pdb
+D:\DHA SUFFA UNIVERSITY\Semester 4\Labs\Database System Lab\Project\CopyProject\University Info Center\bin\Debug\MySql.Data.dll
+D:\DHA SUFFA UNIVERSITY\Semester 4\Labs\Database System Lab\Project\CopyProject\University Info Center\bin\Debug\Google.Protobuf.dll
+D:\DHA SUFFA UNIVERSITY\Semester 4\Labs\Database System Lab\Project\CopyProject\University Info Center\bin\Debug\Zstandard.Net.dll
+D:\DHA SUFFA UNIVERSITY\Semester 4\Labs\Database System Lab\Project\CopyProject\University Info Center\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\DHA SUFFA UNIVERSITY\Semester 4\Labs\Database System Lab\Project\CopyProject\University Info Center\bin\Debug\BouncyCastle.Crypto.dll
+D:\DHA SUFFA UNIVERSITY\Semester 4\Labs\Database System Lab\Project\CopyProject\University Info Center\bin\Debug\Ubiety.Dns.Core.dll
+D:\DHA SUFFA UNIVERSITY\Semester 4\Labs\Database System Lab\Project\CopyProject\University Info Center\bin\Debug\Renci.SshNet.dll
+D:\DHA SUFFA UNIVERSITY\Semester 4\Labs\Database System Lab\Project\CopyProject\University Info Center\bin\Debug\System.Memory.dll
+D:\DHA SUFFA UNIVERSITY\Semester 4\Labs\Database System Lab\Project\CopyProject\University Info Center\bin\Debug\System.Buffers.dll
+D:\DHA SUFFA UNIVERSITY\Semester 4\Labs\Database System Lab\Project\CopyProject\University Info Center\bin\Debug\K4os.Compression.LZ4.dll
+D:\DHA SUFFA UNIVERSITY\Semester 4\Labs\Database System Lab\Project\CopyProject\University Info Center\bin\Debug\K4os.Hash.xxHash.dll
+D:\DHA SUFFA UNIVERSITY\Semester 4\Labs\Database System Lab\Project\CopyProject\University Info Center\bin\Debug\System.Numerics.Vectors.dll
+D:\DHA SUFFA UNIVERSITY\Semester 4\Labs\Database System Lab\Project\CopyProject\University Info Center\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\DHA SUFFA UNIVERSITY\Semester 4\Labs\Database System Lab\Project\CopyProject\University Info Center\bin\Debug\MySql.Data.xml
+D:\DHA SUFFA UNIVERSITY\Semester 4\Labs\Database System Lab\Project\CopyProject\University Info Center\obj\Debug\University Info Center.csprojAssemblyReference.cache
+D:\DHA SUFFA UNIVERSITY\Semester 4\Labs\Database System Lab\Project\CopyProject\University Info Center\obj\Debug\University Info Center.exe.config
+D:\DHA SUFFA UNIVERSITY\Semester 4\Labs\Database System Lab\Project\CopyProject\University Info Center\obj\Debug\University_Info_Center.Admin_Form.AdminForm.resources
+D:\DHA SUFFA UNIVERSITY\Semester 4\Labs\Database System Lab\Project\CopyProject\University Info Center\obj\Debug\University_Info_Center.Admin_Form.Dashboard.resources
+D:\DHA SUFFA UNIVERSITY\Semester 4\Labs\Database System Lab\Project\CopyProject\University Info Center\obj\Debug\University_Info_Center.Admin_Form.DeleteUniField.resources
+D:\DHA SUFFA UNIVERSITY\Semester 4\Labs\Database System Lab\Project\CopyProject\University Info Center\obj\Debug\University_Info_Center.Admin_Form.DemoTesting.DemoTest.resources
+D:\DHA SUFFA UNIVERSITY\Semester 4\Labs\Database System Lab\Project\CopyProject\University Info Center\obj\Debug\University_Info_Center.Admin_Form.Field.resources
+D:\DHA SUFFA UNIVERSITY\Semester 4\Labs\Database System Lab\Project\CopyProject\University Info Center\obj\Debug\University_Info_Center.Admin_Form.InsertUniField.resources
+D:\DHA SUFFA UNIVERSITY\Semester 4\Labs\Database System Lab\Project\CopyProject\University Info Center\obj\Debug\University_Info_Center.Admin_Form.Semester.resources
+D:\DHA SUFFA UNIVERSITY\Semester 4\Labs\Database System Lab\Project\CopyProject\University Info Center\obj\Debug\University_Info_Center.Admin_Form.UniversityInfo.resources
+D:\DHA SUFFA UNIVERSITY\Semester 4\Labs\Database System Lab\Project\CopyProject\University Info Center\obj\Debug\University_Info_Center.Admin_Form.UpdateUniField.resources
+D:\DHA SUFFA UNIVERSITY\Semester 4\Labs\Database System Lab\Project\CopyProject\University Info Center\obj\Debug\University_Info_Center.Admin_Form.UserInfo.resources
+D:\DHA SUFFA UNIVERSITY\Semester 4\Labs\Database System Lab\Project\CopyProject\University Info Center\obj\Debug\University_Info_Center.AdminAuthorization.resources
+D:\DHA SUFFA UNIVERSITY\Semester 4\Labs\Database System Lab\Project\CopyProject\University Info Center\obj\Debug\University_Info_Center.UserRegistrationForm.resources
+D:\DHA SUFFA UNIVERSITY\Semester 4\Labs\Database System Lab\Project\CopyProject\University Info Center\obj\Debug\University_Info_Center.MainMenuForm.resources
+D:\DHA SUFFA UNIVERSITY\Semester 4\Labs\Database System Lab\Project\CopyProject\University Info Center\obj\Debug\University_Info_Center.Properties.Resources.resources
+D:\DHA SUFFA UNIVERSITY\Semester 4\Labs\Database System Lab\Project\CopyProject\University Info Center\obj\Debug\University_Info_Center.UserForm.resources
+D:\DHA SUFFA UNIVERSITY\Semester 4\Labs\Database System Lab\Project\CopyProject\University Info Center\obj\Debug\University Info Center.csproj.GenerateResource.cache
+D:\DHA SUFFA UNIVERSITY\Semester 4\Labs\Database System Lab\Project\CopyProject\University Info Center\obj\Debug\University Info Center.csproj.CopyComplete
+D:\DHA SUFFA UNIVERSITY\Semester 4\Labs\Database System Lab\Project\CopyProject\University Info Center\obj\Debug\University Info Center.exe
+D:\DHA SUFFA UNIVERSITY\Semester 4\Labs\Database System Lab\Project\CopyProject\University Info Center\obj\Debug\University Info Center.pdb
