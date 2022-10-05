@@ -21,7 +21,7 @@ namespace University_Info_Center
             try
             {
                 //MYSQL Connection 
-                MySqlConnection conn = new MySqlConnection("server = freedb.tech; port = 3306; user id = freedbtech_mohammedmujtaba2000; password = helloworld ; database= freedbtech_shashkaydb");
+                MySqlConnection conn = new MySqlConnection("server = CONNETION_NAME; port = PORT_NUMBER; user id = USER_ID; password = PASSWORD ; database= DATABASE_NAME");
 
                 MySqlCommand cmd = null;
                 string dbUserName = "";
